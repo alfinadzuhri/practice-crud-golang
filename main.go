@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"go.mod/config"
+	"github.com/alfinadzuhri/practice-crud-golang/config"
 )
 
 func main() {
